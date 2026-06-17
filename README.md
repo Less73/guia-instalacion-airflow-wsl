@@ -1,7 +1,6 @@
 # Guía de Instalación y Configuración de Apache Airflow 3 en WSL
 
 Esta guía detalla el proceso paso a paso para realizar una instalación limpia de **Apache Airflow 3** de forma nativa en Windows utilizando **WSL (Windows Subsystem for Linux)**, evitando el uso de Docker. También incluye la solución a problemas comunes de permisos, rutas de archivos y conexión de base de datos encontrados durante el proceso.
-![Uploading image.png…]()
 
 ---
 
